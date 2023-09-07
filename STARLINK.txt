@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>POWERED BY STARLINK</title>
+    <style>
+        body {
+            background: linear-gradient(0deg, #000000, #191970); /* Black to Midnight Blue gradient */
+            margin: 0;
+            padding: 0;
+        }
+        
+        h1 {
+            font-size: 24px;
+            color: white;
+            text-align: center;
+        }
+
+        .banner {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            margin: 10px;
+        }
+
+        .banner button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>POWERED BY STARLINK</h1>
+    
+    <div class="banner">
+        <p>5 pesos</p>
+        <button>Click</button>
+    </div>
+    
+    <div class="banner">
+        <p>10 pesos</p>
+        <button>Click</button>
+    </div>
+    
+    <div class="banner">
+        <p>20 pesos</p>
+        <button>Click</button>
+    </div>
+</body>
+</html>
